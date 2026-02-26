@@ -1,11 +1,11 @@
 // Server.cpp : Este arquivo contém a função 'main'. A execução do programa começa e termina ali.
 //
 
-#include <iostream>
+#include <stdio.h>
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	printf("Hello World\n");
 }
 
 // Executar programa: Ctrl + F5 ou Menu Depurar > Iniciar Sem Depuração
